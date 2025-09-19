@@ -1,0 +1,54 @@
+body{
+    background-color: #000000;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: #FF6500;
+}
+.intro {
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 3%;
+    color: #637AB9
+    ;
+}
+
+p {
+   font-style: bold;
+   font-size: x-large;
+}
+
+.row{
+    text-align: center;
+}
+
+.cred {
+    margin-top: 250px;
+    color: #EEEEEE;
+    background-color: black;
+}
+
+.credits {
+    text-align: center;
+    color: #637AB9;
+}
+
+.UN{
+    margin-left: 600px;
+     color: #EEEEEE;
+    background-color: black;
+}
+
+.UNF {
+    margin-top: 5px;
+    margin-left: 600px;
+     color: #EEEEEE;
+    background-color: black;
+}
+
+.x{
+    margin-left: 600px;
+     color: #EEEEEE;
+    background-color: black;
+}
